@@ -93,14 +93,14 @@ Tenho interesse em desenvolvimento de software e estou sempre aprimorando minhas
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+   <!-- <td width="50%" valign="top">
       <h3>🚚 Portal de Acesso — Leais Transportes</h3>
       <p>Projeto real desenvolvido em equipe (<b>Four Seasons</b>) na FATEC para uma empresa de transportes.</p>
       <p>
         <img src="https://img.shields.io/badge/Projeto-Acad%C3%AAmico-1f6feb?style=flat-square" />
         <img src="https://img.shields.io/badge/Em%20equipe-Four%20Seasons-0d1117?style=flat-square" />
       </p>
-    </td>
+    </td> -->
     <td width="50%" valign="top">
       <h3>📅 Planeja +</h3>
       <p>Site em desenvolvimento, com identidade visual e logo próprias.</p>
@@ -111,10 +111,6 @@ Tenho interesse em desenvolvimento de software e estou sempre aprimorando minhas
     </td>
   </tr>
 </table>
-
-> 💡 Dica: troque as descrições acima por links dos repositórios, por exemplo `[Ver repositório](https://github.com/eduleaop/NOME-DO-REPO)`.
-
----
 
 ## 📊 Estatísticas do GitHub
 
