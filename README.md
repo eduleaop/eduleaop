@@ -24,7 +24,6 @@ Tenho interesse em desenvolvimento de software e estou sempre aprimorando minhas
 - 🔭 Atualmente estudando **desenvolvimento multiplataforma** e **arquitetura de sistemas**
 - 🌱 Aprofundando meus conhecimentos em **React, Next.js e TypeScript**
 - 🛠️ Venho do mundo da **eletrônica**, o que me dá uma boa base de lógica e hardware
-- 👥 Participo de um projeto real em equipe (**Four Seasons**) durante a faculdade
 - 💬 Pergunte-me sobre **web, Linux e tecnologia em geral**
 - ⚡ Curiosidade: gosto de entender como as coisas funcionam por baixo dos panos
 
